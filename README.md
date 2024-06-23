@@ -1,8 +1,3 @@
-# heart-disease-predictor
-Sure! Below is a comprehensive README markdown for your heart disease prediction project, including installation steps, requirements, dataset details, model training, and usage instructions.
-
----
-
 # Heart Disease Prediction using CNN
 
 This project aims to create a Convolutional Neural Network (CNN) to predict heart disease from cardiac images. The model is trained to classify images as either healthy or diseased.
